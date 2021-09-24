@@ -1,4 +1,4 @@
-.RollResults{
+.BoxFormatting{
     padding: 20px;
     background-color: white;
     border-width: 5x;
@@ -7,4 +7,8 @@
 }
 .Center{
     text-align: center;
+}
+.Button{
+    padding-left: 35px;
+    padding-right: 35px;
 }
